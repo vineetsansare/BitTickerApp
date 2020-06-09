@@ -24,3 +24,9 @@ Once you have clonned the app to your local system, you can fire-up the app by o
 
 ## Important Info 
 > _To demonstrate that I also have knowledge on using Cocoapods, I'm using Starscream for connecting websocket api of tickerData._ 
+
+### Screenshots
+
+![1](https://user-images.githubusercontent.com/6418402/84205424-26390280-aabe-11ea-9baf-557675c3492c.png)
+![2](https://user-images.githubusercontent.com/6418402/84205431-289b5c80-aabe-11ea-834c-47fe4956d802.png)
+![3](https://user-images.githubusercontent.com/6418402/84205434-2a652000-aabe-11ea-8d79-dbd23b58c873.png)
